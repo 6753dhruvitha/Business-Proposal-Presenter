@@ -1,4 +1,4 @@
-# Project Objective
+# PROJECT OBJECTIVE 
 
 This project, titled "Business Proposal Presenter", is a dashboard I created using Tableau to analyze and visualize video game sales data. The goal was to present clear and interactive visual insights about:
 
@@ -12,7 +12,7 @@ This project, titled "Business Proposal Presenter", is a dashboard I created usi
 
 I also added filters for zone sales and date range, so users can explore the data based on specific time periods and regions.
 
-# Purpose of the Project
+# PURPOSE OF THE PROJECT
 
 • I wanted to create a professional, interactive dashboard that could be used in business proposals or presentations.
 
